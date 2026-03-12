@@ -2,7 +2,7 @@ const CONFIG = {
   // ── App / Game Info ──
   appName: "Rain Drop Lab",
   companyName: "Rain Drop Lab",
-  companyWebsite: "https://raindroplab-site.github.io",
+  companyWebsite: "https://raindroplab.site",
 
   // ── Contact ──
   contactEmail: "schmid919300@icloud.com",
